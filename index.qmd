@@ -5,6 +5,10 @@ subtitle: "my data science portfolio"
 ---
 
 # Title 1 Header
-## Title 2 Header
+![Me and my amazing wife!](meandkatie.png)
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+- Grew up in South Carolina
+- Studying Data Science at BYU-Idaho
+- Still enjoying Roller Coaster Tycoon, even after 26 years since its release
+
+<!-- [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images) -->
