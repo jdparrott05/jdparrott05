@@ -6,8 +6,8 @@ title: Jimmy Parrott's CV
 Student, Advisor 
 
 <div id="webaddress">
-<a href="jdparrott05@gmail.com">jdparrott05@gmail.com</a>
-| <a href="https://www.linkedin.com/in/jamesdparrott2020">My LinkedIn</a>
+<a href="mailto:jdparrott05@gmail.com">jdparrott05@gmail.com</a>
+| <a href="https://www.linkedin.com/in/jamesdparrott2020/" target="_blank" rel="noopener">My LinkedIn</a>
 </div>
 
 
