@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Jimmy Parrott’s CV",
     "section": "",
-    "text": "Student, Advisor,\n\njdparrott05@gmail.com | My LinkedIn\n\n\n\nDreaming of visiting Carhenge…\n\n\nTeam building, management, Python, SQL, leadership\n\n\n\n\n\n2024 - Present BYU-Idaho, Rexburg, ID\n\nBachelor’s of Science, Data Science\n\n2022 - 2023 Utah Tech University, St. George, UT\n\n\n\n\n\n\n\n\n2025 - Present Academic Advisor, BYU-Idaho\n\nProvided guidance and support to students\nCreated efficient academic plans for students\nEnsured university policies, procedures, and academic regulations were upheld"
+    "text": "Student, Advisor\n\njdparrott05@gmail.com | My LinkedIn\n\n\n\nDreaming of visiting Carhenge…\n\n\nTeam building, management, Python, SQL, leadership\n\n\n\n\n\n2024 - Present BYU-Idaho, Rexburg, ID\n\nBachelor’s of Science, Data Science\n\n2022 - 2023 Utah Tech University, St. George, UT\n\n\n\n\n\n\n\n\n2025 - Present Academic Advisor, BYU-Idaho\n\nProvided guidance and support to students\nCreated efficient academic plans for students\nEnsured university policies, procedures, and academic regulations were upheld"
   },
   {
     "objectID": "resume.html#currently",
@@ -49,15 +28,43 @@
     "text": "2025 - Present Academic Advisor, BYU-Idaho\n\nProvided guidance and support to students\nCreated efficient academic plans for students\nEnsured university policies, procedures, and academic regulations were upheld"
   },
   {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -196,32 +203,18 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "Some fun facts\n\n\nGrew up in South Carolina\nStudying Data Science at BYU-Idaho\nMarried my best friend 3 years ago\nStill enjoying Roller Coaster Tycoon, even after 26 years since its release\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Story_Telling/project1.html",

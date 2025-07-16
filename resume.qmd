@@ -3,11 +3,11 @@ layout: cv
 title: Jimmy Parrott's CV
 ---
 # Jimmy Parrott
-Student, Advisor, 
+Student, Advisor 
 
 <div id="webaddress">
 <a href="jdparrott05@gmail.com">jdparrott05@gmail.com</a>
-| <a href="www.linkedin.com/in/jamesdparrott2020">My LinkedIn</a>
+| <a href="https://www.linkedin.com/in/jamesdparrott2020">My LinkedIn</a>
 </div>
 
 
